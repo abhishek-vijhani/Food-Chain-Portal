@@ -1,0 +1,47 @@
+#bg1     {background-color:white;
+        margin-left:110px;
+        margin-right:110px;
+        box-shadow:10px 0px 10px #000000;
+        
+        }
+
+#reg    {font-size:18px;
+        font-family:arial;
+        color:white;
+        text-align: right;
+        margin-top: 60px;
+        margin-right: 90px;}
+        
+img.logo   {margin-top: -10px;
+            margin-left:-10px;}
+         
+marquee.marq    {margin-left: 60px;
+                margin-right: 60px;}
+                
+#foot   {background-color: #ffa73d; /* LIGHT COLOR */
+        
+        }
+        
+
+#foot1  {background-color: #ff7c00; /*DARK COLOR */
+        box-shadow:10px 10px 10px #000000;
+         margin-left:110px;
+        margin-right:110px;
+        
+         } 
+         
+#foot2   {background-color: #ff7c00; /* DARK COLOR */
+        margin-left: 130px;
+        margin-right:130px;
+        }
+                        
+a:link, a:visited   {color:white;
+                    text-decoration:none;}
+a:hover{text-decoration:none;}
+body
+{
+    background-image:url("images/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: arial;
+}

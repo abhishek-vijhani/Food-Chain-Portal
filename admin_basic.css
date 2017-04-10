@@ -1,0 +1,71 @@
+#bar    {background-color:black;
+        margin-left:70px;
+        margin-right:70px;
+        margin-top:-40px;
+        border-radius:10px;
+        border-bottom:orange 3px solid;
+        }
+            
+#abc    {font-size:16px;
+        font-family:arial;
+        color:white;
+        text-align: right;
+        margin-right:10px;
+       }
+
+a:link  {text-decoration:none;
+        color:white;}
+a:visited   {text-decoration:none;
+            color:white;}
+            
+.menusty    {width: 90%;
+            font-weight: bold;
+            font-family:Arial;
+            font-size:20;
+            color: white;
+            border-bottom:3px solid orange;
+            }
+
+.menusty ul   {width: 100%;
+            background-color:black; 
+            padding: 15px 0px 10px;
+            margin: 0;
+            text-align: center;
+            height:33;
+            border-top-right-radius: 10px;
+            border-top-left-radius: 10px;
+            
+            }
+            
+.menusty ul li  {
+                display: inline;
+                margin: 0 70px 0 0;
+                }
+                
+.menusty ul li a    {color: white;
+                    padding: 20px 4px;
+                    margin: 0;
+                    text-decoration: none;
+                    border-top-right-radius: 10px;
+                    border-top-left-radius: 10px;
+                    }
+                    
+.menusty ul li a:hover, .menusty ul li a:active   {
+                                                    background-color:orange;
+                                                    color:black;
+                                                    margin: 0 10px 0 0;
+                                                    }
+.menusty ul li .current_page_item a:active     {background-color:orange !important;
+                                                    color:black !important;
+                                                    margin: 0 10px 0 0;}
+                                                    
+#bdy    {align: center;
+        width:90%;
+        border:3px solid #f0f0f0;
+        border-top:hidden;
+        border-bottom-right-radius:10px;
+        border-bottom-left-radius:10px;
+        }
+        
+#hd     {font-size: 0.5em;
+        margin-left:100px;}
